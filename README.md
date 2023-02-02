@@ -10,7 +10,7 @@
 
 - 👯 I'm Building the Future of Data Science through Collaboration and Knowledge Sharing in **Analytics, Visualization and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [kishoralagappan.netlify.app](kishoralagappan.netlify.app)
+- 👨‍💻 All of my projects are available at [https://kishoralagappan.netlify.app/](https://kishoralagappan.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.kishordecoder.com/](https://www.kishordecoder.com/)
 
