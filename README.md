@@ -31,6 +31,7 @@
 <a href="https://www.leetcode.com/kishor_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishor_a" height="30" width="40" /></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/borderseparator.gif" width="100%"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishoralagappan&show_icons=true&locale=en&layout=compact" alt="kishoralagappan" /></p>
 
