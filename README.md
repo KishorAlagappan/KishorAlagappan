@@ -17,8 +17,6 @@
 
 - 👨‍💻 My Portfolio Website [https://kishoralagappan.netlify.app/](https://kishoralagappan.netlify.app/)
 
-- 📝 I regularly write articles on [https://www.kishordecoder.com/](https://www.kishordecoder.com/)
-
 - 📫 How to reach me **kishoralagappan31@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
