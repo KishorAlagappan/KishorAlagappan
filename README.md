@@ -11,11 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoralagappan&label=Profile%20views&color=0e75b6&style=flat" alt="kishoralagappan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alagappankishor" target="blank"><img src="https://img.shields.io/twitter/follow/alagappankishor?logo=twitter&style=for-the-badge" alt="alagappankishor" /></a> </p>
 
-- 👯 I'm Building the Future of Data Science through Collaboration and Knowledge Sharing in **Data Analytics, Machine Learning and Deep Learning.**
+- 👯 I'm Building the Future of Data Science through Collaboration and Knowledge Sharing in **Data Analytics, Machine Learning, Cloud Technologies and Deep Learning.**
 
-- 👨‍💻 My Portfolio Website [https://kishoralagappan.netlify.app/](https://kishoralagappan.netlify.app/)
 
 - 📫 How to reach me **kishoralagappan31@gmail.com**
 
