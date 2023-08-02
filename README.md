@@ -2,21 +2,5 @@
 
 <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/borderseparator.gif" width="100%"/>
 
-
-<h3 align="center">A Computer Science Engineering Graduate with a Passion for Data Science and a Strong Drive to Learn and Apply Technologies like Machine Learning, Deep Learning, and Computer Vision.</h3>
-
-
-
-
-
-
-- 👯 I'm Building the Future of Data Science through Collaboration and sharing my Knowledge in **Data Analytics, Machine Learning, Cloud Technologies and Deep Learning.**
-
-
-- 📫 How to reach me **kishoralagappan31@gmail.com**
-
-
-
-
-
+<h3 align="center">A Computer Science Engineering Graduate with a Passion for Data Science and a Strong Drive to Learn and Apply Technologies like Machine Learning, Deep Learning,Cloud Technology and Computer Vision.</h3>
 
